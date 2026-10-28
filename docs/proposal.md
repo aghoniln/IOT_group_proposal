@@ -2,8 +2,8 @@
 
 **AI Air Doctor: A Domain AI Agent for Personalized Air-Quality Health Advisory Integrating IoT Sensing and Environmental Medicine Knowledge**
 
-組員：______、______、______、______  
-課程：物聯網與智慧系統應用專題  指導老師：______
+組員：楊禾睿（7115093066）、徐崇皓（7115093063）、謝秉樺（7115064183）、譚人傑（7115064202）  
+課程：物聯網與智慧系統應用專題  指導老師：教授
 
 ---
 

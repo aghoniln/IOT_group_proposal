@@ -149,7 +149,7 @@ text(s, 0.9, 2.0, 10, 1.2, "AI Air Doctor", 60, WHITE, True)
 text(s, 0.9, 3.2, 10, 1.0, "結合 IoT 空品數據與環境醫學知識的\n個人化空氣品質健康代理人", 26, WHITE)
 rect(s, 0.9, 4.65, 1.2, 0.06, CYAN, shape=MSO_SHAPE.RECTANGLE)
 text(s, 0.9, 4.9, 10, 0.5, "AI Agent  +  Domain Knowledge  +  Data Analytics  +  Real-World Application", 15, MUTED)
-text(s, 0.9, 5.8, 10, 0.8, ["組員:________、________、________、________", "課程:IoT 智慧系統應用專題    指導老師:________"], 14, MUTED)
+text(s, 0.9, 5.8, 10, 0.8, ["組員: 楊禾睿 (7115093066)、徐崇皓 (7115093063)、謝秉樺 (7115064183)、譚人傑 (7115064202)", "課程: 物聯網與智慧系統應用專題    指導老師: 授課教授"], 14, MUTED)
 
 # ---------------- 2. Motivation ----------------
 s = new_slide("研究動機 Motivation", "空氣污染是全球第二大早逝風險因子 (WHO & HEI 2025)")

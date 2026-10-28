@@ -31,10 +31,10 @@
 
 | 姓名 | 學號 | 負責角色與模組 | 核心工作項目 |
 |---|---|---|---|
-| ______ | ______ | 資料工程與分析引擎 (Data & ML) | 環境部/氣象署 API 串接、特徵工程、XGBoost/LSTM 模型與 SHAP 歸因 |
-| ______ | ______ | 領域知識與 RAG 系統 (Domain Knowledge) | WHO 2021/AQI 規範整理、ChromaDB 向量庫建置、安全護欄 |
-| ______ | ______ | Agent 核心調度 (Agent & Planner) | LangGraph 狀態機、ReAct 工具呼叫管線、例外處理與反思機制 |
-| ______ | ______ | 架構設計與文件交付 (Architecture & Handover) | 系統架構圖/流程圖、DESIGN.md 維護、Word/PPT 自動生成腳本 |
+| **楊禾睿** (組長) | 7115093066 | Agent 核心調度與推理架構 (Agent & Planner) | LangGraph 狀態機、ReAct 工具呼叫管線、例外處理與反思機制 |
+| **徐崇皓** | 7115093063 | 資料工程與時序分析引擎 (Data & ML) | 環境部/氣象署 API 串接、特徵工程、XGBoost/LSTM 模型與 SHAP 歸因 |
+| **謝秉樺** | 7115064183 | 領域知識與 RAG 系統 (Domain Knowledge) | WHO 2021/AQI 規範整理、ChromaDB 向量庫建置、安全護欄 |
+| **譚人傑** | 7115064202 | 架構設計與文件交付 (Architecture & Handover) | 系統架構圖/流程圖、DESIGN.md 維護、Word/PPT 自動生成腳本 |
 
 ---
 
